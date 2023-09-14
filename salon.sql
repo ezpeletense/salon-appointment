@@ -189,7 +189,7 @@ INSERT INTO public.services VALUES (1, 'cut');
 INSERT INTO public.services VALUES (2, 'wash');
 INSERT INTO public.services VALUES (3, 'color');
 INSERT INTO public.services VALUES (4, 'trim');
-INSERT INTO public.services VALUES (5, 'color');
+INSERT INTO public.services VALUES (5, 'perm');
 
 
 --
