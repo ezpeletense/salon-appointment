@@ -189,7 +189,7 @@ INSERT INTO public.services VALUES (1, 'cut');
 INSERT INTO public.services VALUES (2, 'wash');
 INSERT INTO public.services VALUES (3, 'color');
 INSERT INTO public.services VALUES (4, 'trim');
-INSERT INTO public.services VALUES (5, 'perm');
+INSERT INTO public.services VALUES (5, 'style');
 
 
 --
@@ -264,4 +264,3 @@ ALTER TABLE ONLY public.appointments
 --
 -- PostgreSQL database dump complete
 --
-
